@@ -1,0 +1,12 @@
+public class Tinydebug{
+public static void main(String[] args){
+	int x=10
+	int y=5;
+		
+	 System.out.println("The average is:" +x+y/2);
+		num= 20;
+
+}
+}
+syntax error 2(num not declare) and (+ in output)
+logical eror is (+x+y/2) = (x+y)/2
